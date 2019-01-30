@@ -1,0 +1,27 @@
+ body {
+   text-align: center;
+ }
+
+.bg-white {
+  color:#82898f;
+}
+
+.bg-blue {
+  background-color:#307aab;
+  color: white;
+}
+
+.bg-gray {
+  background-color: #eeeff1;
+  color: #3a505b;
+}
+
+
+
+.emphasis {
+  font-weight: bold;
+}
+
+.boxes {
+  background-color: white;
+}
