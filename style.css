@@ -14,14 +14,32 @@
 .bg-gray {
   background-color: #eeeff1;
   color: #3a505b;
-}
+  }
 
-
+  .bigger {
+    padding: 10px;
+  }
 
 .emphasis {
   font-weight: bold;
 }
 
 .boxes {
-  background-color: white;
+  background: white;
+  padding: 30px;
+  box-shadow: 1px 1px 2px #e7e7e7;
+  border-radius: 4px;
+  margin: 20px 50px;
+}
+
+.top {
+padding: 10px;
+}
+
+.middle {
+padding: 40px;
+}
+
+.bottom {
+  padding: 20px;
 }
