@@ -9,6 +9,7 @@
 .bg-blue {
   background-color:#307aab;
   color: white;
+  padding-bottom: 30px;
 }
 
 .bg-gray {
@@ -34,12 +35,9 @@
 
 .top {
 padding: 10px;
+font-weight: 410;
 }
 
 .middle {
 padding: 40px;
-}
-
-.bottom {
-  padding: 20px;
 }
